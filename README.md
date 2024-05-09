@@ -1,1 +1,1 @@
-# Working with DAX (Data ANalysis Expressions)
+# Working with DAX (Data Analysis Expressions)
